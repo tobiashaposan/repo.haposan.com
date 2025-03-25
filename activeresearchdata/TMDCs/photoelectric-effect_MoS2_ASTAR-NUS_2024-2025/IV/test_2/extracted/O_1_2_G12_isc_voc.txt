@@ -1,0 +1,8 @@
+Extracted Isc and Voc values from O_1_2_G12
+==================================================
+50mA_A_LA: Isc = -5.181501e-08 A, Voc = 5.651731e-05 V
+70mA_Align: Isc = -5.146123e-08 A, Voc = 5.490730e-05 V
+60mA_Align: Isc = -5.114691e-08 A, Voc = 5.562972e-05 V
+50mA_Align: Isc = -4.717407e-08 A, Voc = 5.043709e-05 V
+30mA_Align: Isc = -4.891367e-08 A, Voc = 5.491517e-05 V
+10mA_Align: Isc = -4.172325e-08 A, Voc = 4.540458e-05 V
