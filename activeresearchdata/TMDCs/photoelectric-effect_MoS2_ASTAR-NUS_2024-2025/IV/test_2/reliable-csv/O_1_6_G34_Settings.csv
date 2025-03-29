@@ -1,0 +1,288 @@
+==================================,Unnamed: 1,Unnamed: 2
+O_1_6_G34_80mA,,
+==================================,,
+,,
+Test Name,cntfet-vgs-id#1@1,
+Mode,Sweeping,
+Speed,Custom,
+Sweep Delay,0,
+Hold Time,0,
+Site Coordinate,"0,0",
+Last Executed,02/13/2025 02:49:29,
+Clarius+ Version,V1.6.1,
+Execution Time,00:00:00:23,
+Interlock,High Voltage Disabled,
+,,
+Device Terminal,Drain,Source
+Instrument,SMU2,SMU1
+Name,DrainV,SourceV
+Operation Mode,Common,Voltage Linear Sweep
+Master/Subordinate,,Master
+Start/Bias,,-0.5
+Stop,,0.5
+Step,,0.01
+Number of Points,,101
+Compliance,0.105,1.05e-07
+Measure Current,,Measured
+Measure Voltage,,Programmed
+Current Range,,100nA
+Voltage Range,,Best Fixed
+AC Measure I Range,,
+Dual Sweep,,Disabled
+Pulse Mode,,Disabled
+Pulse On Time,,
+Pulse Off Time,,
+Pulse Base Voltage,,
+Presoak,,
+Frequency,,
+Start Frequency,,
+Stop Frequency,,
+Frequency Points,,
+AC Drive Signal,,
+Overvoltage Protection,OFF,OFF
+Compensation,,
+CVU Path,,
+,,
+Formulas,,
+R = GATEV/GATEI,,
+,,
+==================================,,
+O_1_6_G34_70mA,,
+==================================,,
+,,
+Test Name,cntfet-vgs-id#1@1,
+Mode,Sweeping,
+Speed,Custom,
+Sweep Delay,0,
+Hold Time,0,
+Site Coordinate,"0,0",
+Last Executed,02/13/2025 02:48:55,
+Clarius+ Version,V1.6.1,
+Execution Time,00:00:00:23,
+Interlock,High Voltage Disabled,
+,,
+Device Terminal,Drain,Source
+Instrument,SMU2,SMU1
+Name,DrainV,SourceV
+Operation Mode,Common,Voltage Linear Sweep
+Master/Subordinate,,Master
+Start/Bias,,-0.5
+Stop,,0.5
+Step,,0.01
+Number of Points,,101
+Compliance,0.105,1.05e-07
+Measure Current,,Measured
+Measure Voltage,,Programmed
+Current Range,,100nA
+Voltage Range,,Best Fixed
+AC Measure I Range,,
+Dual Sweep,,Disabled
+Pulse Mode,,Disabled
+Pulse On Time,,
+Pulse Off Time,,
+Pulse Base Voltage,,
+Presoak,,
+Frequency,,
+Start Frequency,,
+Stop Frequency,,
+Frequency Points,,
+AC Drive Signal,,
+Overvoltage Protection,OFF,OFF
+Compensation,,
+CVU Path,,
+,,
+Formulas,,
+R = GATEV/GATEI,,
+,,
+==================================,,
+O_1_6_G34_60mA,,
+==================================,,
+,,
+Test Name,cntfet-vgs-id#1@1,
+Mode,Sweeping,
+Speed,Custom,
+Sweep Delay,0,
+Hold Time,0,
+Site Coordinate,"0,0",
+Last Executed,02/13/2025 02:48:21,
+Clarius+ Version,V1.6.1,
+Execution Time,00:00:00:24,
+Interlock,High Voltage Disabled,
+,,
+Device Terminal,Drain,Source
+Instrument,SMU2,SMU1
+Name,DrainV,SourceV
+Operation Mode,Common,Voltage Linear Sweep
+Master/Subordinate,,Master
+Start/Bias,,-0.5
+Stop,,0.5
+Step,,0.01
+Number of Points,,101
+Compliance,0.105,1.05e-07
+Measure Current,,Measured
+Measure Voltage,,Programmed
+Current Range,,100nA
+Voltage Range,,Best Fixed
+AC Measure I Range,,
+Dual Sweep,,Disabled
+Pulse Mode,,Disabled
+Pulse On Time,,
+Pulse Off Time,,
+Pulse Base Voltage,,
+Presoak,,
+Frequency,,
+Start Frequency,,
+Stop Frequency,,
+Frequency Points,,
+AC Drive Signal,,
+Overvoltage Protection,OFF,OFF
+Compensation,,
+CVU Path,,
+,,
+Formulas,,
+R = GATEV/GATEI,,
+,,
+==================================,,
+O_1_6_G34_50mA,,
+==================================,,
+,,
+Test Name,cntfet-vgs-id#1@1,
+Mode,Sweeping,
+Speed,Custom,
+Sweep Delay,0,
+Hold Time,0,
+Site Coordinate,"0,0",
+Last Executed,02/13/2025 02:47:47,
+Clarius+ Version,V1.6.1,
+Execution Time,00:00:00:23,
+Interlock,High Voltage Disabled,
+,,
+Device Terminal,Drain,Source
+Instrument,SMU2,SMU1
+Name,DrainV,SourceV
+Operation Mode,Common,Voltage Linear Sweep
+Master/Subordinate,,Master
+Start/Bias,,-0.5
+Stop,,0.5
+Step,,0.01
+Number of Points,,101
+Compliance,0.105,1.05e-07
+Measure Current,,Measured
+Measure Voltage,,Programmed
+Current Range,,100nA
+Voltage Range,,Best Fixed
+AC Measure I Range,,
+Dual Sweep,,Disabled
+Pulse Mode,,Disabled
+Pulse On Time,,
+Pulse Off Time,,
+Pulse Base Voltage,,
+Presoak,,
+Frequency,,
+Start Frequency,,
+Stop Frequency,,
+Frequency Points,,
+AC Drive Signal,,
+Overvoltage Protection,OFF,OFF
+Compensation,,
+CVU Path,,
+,,
+Formulas,,
+R = GATEV/GATEI,,
+,,
+==================================,,
+O_1_6_G34_30mA,,
+==================================,,
+,,
+Test Name,cntfet-vgs-id#1@1,
+Mode,Sweeping,
+Speed,Custom,
+Sweep Delay,0,
+Hold Time,0,
+Site Coordinate,"0,0",
+Last Executed,02/13/2025 02:47:13,
+Clarius+ Version,V1.6.1,
+Execution Time,00:00:00:23,
+Interlock,High Voltage Disabled,
+,,
+Device Terminal,Drain,Source
+Instrument,SMU2,SMU1
+Name,DrainV,SourceV
+Operation Mode,Common,Voltage Linear Sweep
+Master/Subordinate,,Master
+Start/Bias,,-0.5
+Stop,,0.5
+Step,,0.01
+Number of Points,,101
+Compliance,0.105,1.05e-07
+Measure Current,,Measured
+Measure Voltage,,Programmed
+Current Range,,100nA
+Voltage Range,,Best Fixed
+AC Measure I Range,,
+Dual Sweep,,Disabled
+Pulse Mode,,Disabled
+Pulse On Time,,
+Pulse Off Time,,
+Pulse Base Voltage,,
+Presoak,,
+Frequency,,
+Start Frequency,,
+Stop Frequency,,
+Frequency Points,,
+AC Drive Signal,,
+Overvoltage Protection,OFF,OFF
+Compensation,,
+CVU Path,,
+,,
+Formulas,,
+R = GATEV/GATEI,,
+,,
+==================================,,
+O_1_6_G34_10mA,,
+==================================,,
+,,
+Test Name,cntfet-vgs-id#1@1,
+Mode,Sweeping,
+Speed,Custom,
+Sweep Delay,0,
+Hold Time,0,
+Site Coordinate,"0,0",
+Last Executed,02/13/2025 02:45:24,
+Clarius+ Version,V1.6.1,
+Execution Time,00:00:00:23,
+Interlock,High Voltage Disabled,
+,,
+Device Terminal,Drain,Source
+Instrument,SMU2,SMU1
+Name,DrainV,SourceV
+Operation Mode,Common,Voltage Linear Sweep
+Master/Subordinate,,Master
+Start/Bias,,-0.5
+Stop,,0.5
+Step,,0.01
+Number of Points,,101
+Compliance,0.105,1.05e-07
+Measure Current,,Measured
+Measure Voltage,,Programmed
+Current Range,,100nA
+Voltage Range,,Best Fixed
+AC Measure I Range,,
+Dual Sweep,,Disabled
+Pulse Mode,,Disabled
+Pulse On Time,,
+Pulse Off Time,,
+Pulse Base Voltage,,
+Presoak,,
+Frequency,,
+Start Frequency,,
+Stop Frequency,,
+Frequency Points,,
+AC Drive Signal,,
+Overvoltage Protection,OFF,OFF
+Compensation,,
+CVU Path,,
+,,
+Formulas,,
+R = GATEV/GATEI,,
+     ,,

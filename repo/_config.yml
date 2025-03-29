@@ -2,13 +2,13 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Digital Repository
-author: T. Haposan
+author:
 logo: logo.png # logo vector is from Iconiic at Flaticon
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
-  execute_notebooks: force
+  execute_notebooks: 'off'
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -28,8 +28,8 @@ repository:
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  use_issues_button: true
-  use_repository_button: true
+  use_issues_button: false
+  use_repository_button: false
   home_page_in_navbar: false
   #announcement: "👷‍♂️ As we are just launching this course, the content keeps updating! Please check back regularly for updates."
   extra_footer          : |
