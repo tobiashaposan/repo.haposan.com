@@ -1,0 +1,32 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 917697b1-8281-4a9a-b4a3-2bdfe22ca600
+  title: Repo 🔬🧪🥽
+  # description:
+  # keywords: []
+  # authors: []
+  # github: https://github.com/jupyter-book/mystmd-quickstart
+  exclude:
+  - _build
+  - README.md
+  - .DS_Store
+
+
+  toc:
+    - file: index.md
+    - file: perovskites/index.md
+      children:
+        - file: perovskites/copper.md
+
+site:
+  template: book-theme
+  options:
+    favicon: kb-logo.png
+    logo: repo.png
+    logo_dark: repo-dark.png
+  folders: true
+
+  actions:
+    - title: haposan.com
+      url: https://haposan.com/
