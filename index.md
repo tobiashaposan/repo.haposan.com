@@ -1,8 +1,7 @@
 ---
-template: article-theme
 title: Welcome to the data repository
 site:
-  hide_outline: true
+  hide_outline: false
   hide_toc: false
   hide_title_block: false
 ---
@@ -14,13 +13,42 @@ site:
 
 Welcome to the data repository. This site keeps record and archives the materials and devices characterisation from our research activity. The repository is grouped based on experimental method and batches. While the site groups the research data, an approved GitHub credential is and might be required for you to access the raw data and analysis process, as most of our research is not published with open research policy.
 
-This webpage is part of [Knowledge Book](https://docs.haposan.com/) in an effort to improve the management of research data. You might see some links to the Knowledge Book embedded in the analysis section of this repository.
+This webpage is created as part of the [Knowledge Book](https://docs.haposan.com/), in an effort to improve the management of research data. You might see some links to the Knowledge Book embedded in the analysis section of this repository.
+
+---
+
+# Quick jump - active repositories
+::::{grid} 1 1 2 3
+
+
+:::{card} 
+:link: perovskites/copper-mechanochemistry
+:header: Materials
+:footer: Open research policy: `N/A`
+**Copper halide perovskites [Mechanochemistry]**
+Date: 2023-present | Variant: 0D $A_3B_2X_5$ and 1D $AB_2X_3$
+:::
+
+:::{card} 
+:link: perovskites/copper-mechanochemistry
+:header: Devices
+:footer: Open research policy: `N/A`
+**MoS₂ [Mech. Exfoliation-EBL]**
+Date: 2024-2025 | Variant: $MoS_2$ devices
+:::
+
+
+::::
+
+---
 
 # Navigation
 
 ## How to look around
 
-You can quickly navigate through the sections using the **navigation bar** on the left side. There is also a **search box** on top of the page to help you find any content in this web swiftly.
+You can quickly navigate through the sections using the **navigation bar** on the left side. There is also a **search box** (`ctrl+k` or `cmd+k`) on top of the page to help you find any content in this web swiftly.
+
+
 
 ## How to retrieve data - and update changes
 
@@ -48,16 +76,8 @@ The research data is stored and maintained with the use of Git, specifically in 
 
 {button}`Register for GitHub<https://github.com/signup?source=form-home-signup&user_email=>`
 ```
----
 
-# Quick jump - available repositories
-:::{card} Perovskites - Copper [Mechanochemistry]
-:link: perovskites/copper-mechanochemistry
 
-Date: 2024-present | Variant: 0D $A_3B_2X_5$ and 1D $AB_2X_3$
-
-Open research policy: `no`
-:::
 
 ---
 # Acknowledgement
