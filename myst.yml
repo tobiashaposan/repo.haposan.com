@@ -21,11 +21,9 @@ project:
     - file: index.md
     # - file: misc-folder/contact.md
     
-    - title: Materials
+    - file: materials/index-materials.md
       children:
-      - file: materials/index-materials.md
-        children:
-          - file: materials/perovskites/copper-mechanochemistry.md
+        - file: materials/perovskites/copper-mechanochemistry.md
       #- title: 2D materials
       #  children:
       #   - file: 

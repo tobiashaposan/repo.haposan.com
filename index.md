@@ -2,7 +2,7 @@
 title: Welcome to the data repository
 site:
   hide_outline: true
-  hide_toc: true
+  hide_toc: false
   hide_title_block: false
 ---
 
@@ -14,31 +14,6 @@ site:
 Welcome to the data repository. This site keeps record and archives the materials and devices characterisation from our research activity. The repository is grouped based on experimental method and batches. While the site groups the research data, an approved GitHub credential is and might be required for you to access the raw data and analysis process, as most of our research is not published with open research policy.
 
 This webpage is created as part of the [Knowledge Book](https://docs.haposan.com/), in an effort to improve the management of research data. You might see some links to the Knowledge Book embedded in the analysis section of this repository.
-
----
-
-# Quick jump - recent repositories
-::::{grid} 1 1 2 3
-
-
-:::{card} 
-:link: materials/perovskites/copper-mechanochemistry.md
-:header: Materials
-:footer: Open research policy: `N/A`
-**Copper halide perovskites [Mechanochemistry]**
-Date: 2023-present | Variant: 0D $A_3B_2X_5$ and 1D $AB_2X_3$
-:::
-
-:::{card} 
-:link: perovskites/copper-mechanochemistry
-:header: Devices
-:footer: Open research policy: `N/A`
-**MoS₂ [Mech. Exfoliation-EBL]**
-Date: 2024-2025 | Variant: $MoS_2$ devices
-:::
-
-
-::::
 
 ---
 
