@@ -22,7 +22,7 @@ This webpage is created as part of the [Knowledge Book](https://docs.haposan.com
 
 
 :::{card} 
-:link: perovskites/copper-mechanochemistry.md
+:link: materials/perovskites/copper-mechanochemistry.md
 :header: Materials
 :footer: Open research policy: `N/A`
 **Copper halide perovskites [Mechanochemistry]**
@@ -36,6 +36,7 @@ Date: 2023-present | Variant: 0D $A_3B_2X_5$ and 1D $AB_2X_3$
 **MoS₂ [Mech. Exfoliation-EBL]**
 Date: 2024-2025 | Variant: $MoS_2$ devices
 :::
+
 
 ::::
 
@@ -64,6 +65,7 @@ GitHub is a powerful platform for managing not only software code but also resea
 
 ---
 # User access
+
 By default, if you are a co-author, collaborator, or one of the technician/ research engineer working on the project, you will already have access or prompted to obtain one at the beginning of the project. If you require clearance, please contact me by sending an email to repo@haposan.com or text me via any available channels.
 
 
@@ -81,3 +83,5 @@ The research data is stored and maintained with the use of Git, specifically in 
 ---
 # Acknowledgement
 This repository is inspired and built with the principles of [Research Repositories 101 of Nielsen Norman Group](https://www.nngroup.com/articles/research-repositories/). This web is powered by [MyST](https://mystmd.org/made-with-myst), [Jupyter Book](https://jupyterbook.org/en/stable/intro.html), and [Vercel](https://vercel.com/).
+
+[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)

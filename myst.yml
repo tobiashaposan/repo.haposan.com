@@ -23,9 +23,9 @@ project:
     
     - title: Materials
       children:
-      - title: Perovskites
+      - file: materials/index-materials.md
         children:
-          - file: perovskites/copper-mechanochemistry.md
+          - file: materials/perovskites/copper-mechanochemistry.md
       #- title: 2D materials
       #  children:
       #   - file: 
