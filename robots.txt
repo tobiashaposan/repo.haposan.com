@@ -1,0 +1,8 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+Sitemap: https://example.com/sitemap.xml
+
+site:
+  robots: disallow

@@ -1,8 +1,8 @@
 ---
 title: Welcome to the data repository
 site:
-  hide_outline: false
-  hide_toc: false
+  hide_outline: true
+  hide_toc: true
   hide_title_block: false
 ---
 
@@ -17,12 +17,12 @@ This webpage is created as part of the [Knowledge Book](https://docs.haposan.com
 
 ---
 
-# Quick jump - active repositories
+# Quick jump - recent repositories
 ::::{grid} 1 1 2 3
 
 
 :::{card} 
-:link: perovskites/copper-mechanochemistry
+:link: perovskites/copper-mechanochemistry.md
 :header: Materials
 :footer: Open research policy: `N/A`
 **Copper halide perovskites [Mechanochemistry]**
@@ -36,7 +36,6 @@ Date: 2023-present | Variant: 0D $A_3B_2X_5$ and 1D $AB_2X_3$
 **MoS₂ [Mech. Exfoliation-EBL]**
 Date: 2024-2025 | Variant: $MoS_2$ devices
 :::
-
 
 ::::
 

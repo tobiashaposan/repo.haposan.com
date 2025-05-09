@@ -14,6 +14,7 @@ project:
   - activeresearchdata
   - 01-paper.md
   - 02-notebook.ipynb
+  - misc-folder
 
 
   toc:
@@ -33,9 +34,11 @@ project:
       children: 
       - title: 2D materials
         children:
-        - file: MoS₂
+        - file: 2D-materials/MoS2.md
 
     - title: Others
+      children:
+      - file:
 
 
 site:
@@ -45,6 +48,7 @@ site:
     logo: repo.png
     logo_dark: repo-dark.png
   folders: true
+  robots: disallow
 
   actions:
     - title: haposan.com
