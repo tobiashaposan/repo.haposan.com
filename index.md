@@ -31,17 +31,17 @@ The fastest way to retrieve data is to download the GitHub repository as a ZIP. 
 
 What you can do instead, is to clone the repository with Git on your machine. I highly recommend [GitHub Desktop](https://desktop.github.com/download/) to easily clone the repository and track changes. After you are done, or at least completed a major step, you can "re-upload" the files to the repository with "Commit" and "Push" buttons on [GitHub Desktop](https://desktop.github.com/download/). Afterwards, the Repository Manager will assess your change and integrate it into the central repository. The new version, old versions, and all the changes are tracked and safely stored. These features offer the advantage of having **redundancies** in our system.
 
+---
+# User access
+
+By default, if you are a co-author, collaborator, or one of the technician/ research engineer working on the project, you will already have access or prompted to obtain one at the beginning of the project. If you require clearance, please contact me by sending an email to repo@haposan.com or text me via any available channels.
+
 ```{hint}
 :class: dropdown
 **Why do we use Git/ GitHub?**
 
 GitHub is a powerful platform for managing not only software code but also research data in materials science. It enables version control for datasets, simulation inputs, and analysis scripts, ensuring full traceability and reproducibility of scientific workflows. Researchers can collaborate effectively through GitHub’s tools for tracking changes, submitting pull requests, and documenting methods. By storing structured, text-based research artifacts—like Jupyter notebooks, VASP inputs, or ML configs—GitHub supports the FAIR principles and enhances data integrity through secure, auditable logs. It integrates with platforms like Zenodo for DOI archiving, Binder for launching notebooks, and GitHub Actions for automating tasks. While it’s best suited for smaller, text-based files, large data can be managed via Git LFS or linked external repositories. Overall, GitHub strengthens research transparency, collaboration, and long-term accessibility in materials science.
 ```
-
----
-# User access
-
-By default, if you are a co-author, collaborator, or one of the technician/ research engineer working on the project, you will already have access or prompted to obtain one at the beginning of the project. If you require clearance, please contact me by sending an email to repo@haposan.com or text me via any available channels.
 
 
 ```{attention}

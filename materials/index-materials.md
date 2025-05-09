@@ -6,6 +6,6 @@ site:
   hide_title_block: false
 ---
 
-# Materials - characterisation
+# Materials - characterisation data
 
-# General page outline
+# Repository structure

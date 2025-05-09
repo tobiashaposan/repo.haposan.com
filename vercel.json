@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+        { "source": "/(.*)", "destination": "/" }
+    ]
+}
+
+{
+    "public": false,
+    "cleanUrls": true
+}
